@@ -23,6 +23,7 @@
 #include <stdio.h>
 #define STACK_SIZE 50 // 최대 스택 크기
 
+
 int     call_stack[STACK_SIZE];         // Call Stack을 저장하는 배열
 char    stack_info[STACK_SIZE][20];     // Call Stack 요소에 대한 설명을 저장하는 배열
 
