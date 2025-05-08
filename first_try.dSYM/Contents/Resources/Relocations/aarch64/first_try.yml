@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/kim/test/cykor_1/first_try'
+relocations:     []
+...
